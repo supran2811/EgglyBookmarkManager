@@ -1,0 +1,33 @@
+{
+  "name": "egglybookmark",
+  "version": "1.0.0",
+  "description": "eggly bookmark",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supran2811/EgglyBookmarkManager.git"
+  },
+  "keywords": [
+    "gulp",
+    "automation"
+  ],
+  "author": "Supran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supran2811/EgglyBookmarkManager/issues"
+  },
+  "homepage": "https://github.com/supran2811/EgglyBookmarkManager#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.1.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-serve": "^1.4.0",
+    "jshint": "^2.9.3",
+    "run-sequence": "^1.2.2",
+    "serve": "^1.4.0"
+  }
+}
